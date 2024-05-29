@@ -86,7 +86,7 @@ export const sideMeniPostavka = [
     ],
   },
   {
-    key: "2",
+    key: "/brojila",
     icon: (
       <NavLink to={"/brojila"}>
         <VideoCameraOutlined />
@@ -95,7 +95,7 @@ export const sideMeniPostavka = [
     label: "Brojila",
   },
   {
-    key: "3",
+    key: "/uplate",
     icon: (
       <NavLink to={"/uplate"}>
         <UploadOutlined />
@@ -104,7 +104,7 @@ export const sideMeniPostavka = [
     label: "Uplate",
   },
   {
-    key: "4",
+    key: "/obracun",
     icon: (
       <NavLink to={"/obracun"}>
         <UploadOutlined />
@@ -113,7 +113,7 @@ export const sideMeniPostavka = [
     label: "Obračun",
   },
   {
-    key: "5",
+    key: "/fakture",
     icon: (
       <NavLink to={"/fakture"}>
         <UploadOutlined />
@@ -122,7 +122,7 @@ export const sideMeniPostavka = [
     label: "Fakture",
   },
   {
-    key: "6",
+    key: "/knjizne",
     icon: (
       <NavLink to={"/knjizne"}>
         <UploadOutlined />
@@ -131,7 +131,7 @@ export const sideMeniPostavka = [
     label: "Knjižne",
   },
   {
-    key: "7",
+    key: "/izvjestaji",
     icon: (
       <NavLink to={"/izvjestaji"}>
         <UploadOutlined />
